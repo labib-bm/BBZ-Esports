@@ -1,0 +1,63 @@
+#clan-description{
+    background:linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url(labib/BBZ_11zon.png);
+    background-size: 475px;
+}
+#bbz{
+    text-align: center;
+    font-size: 60px;
+    color: darkred;
+}
+#head-list{
+    text-align: center;
+    color:darkblue;
+}
+#line-up{
+    background-color: bisque;
+}
+#line-up h1{
+    color: brown;
+    text-align: center;
+}
+#first-two{
+    display: flex;
+}
+.ran{
+    width: 45%;
+    margin: 10px 10px 10px 10px;   
+}
+.ran img{
+    padding-left: 15%;
+    width: 80%;
+}
+#rangers{
+    padding-top: 15px;
+}
+#rangers h1{
+    padding-left: 10%;
+}
+#divas{
+    width: 30;
+}
+#divas h1{
+    padding-left: 10%;
+}
+#last-two{
+    display: flex;
+}
+.thun{
+    width: 45%;
+    margin: 10px 10px 10px 10px;   
+}
+.thun img{
+    padding-left: 15%;
+    width: 70%;
+}
+#thunder h1{
+    padding-left: 10%;
+}
+#secret h1{
+    padding-left: 10%;
+}
+#secret img{
+    padding-left: 20%;
+}
